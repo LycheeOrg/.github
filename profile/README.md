@@ -1,6 +1,7 @@
 <p align="center"><a href="https://lycheeorg.github.io"><img src="https://raw.githubusercontent.com/LycheeOrg/Lychee/master/Banner.png" width="400px" alt="@LycheeOrg"></a></p>
 
 <p align="center" markdown="1">
+
 [![GitHub Release][release-shield]](https://github.com/LycheeOrg/Lychee/releases)
 [![PHP 8.0 & 8.1][php-shield]](https://lycheeorg.github.io/docs/#server-requirements)
 [![MIT License][license-shield]](https://github.com/LycheeOrg/Lychee/blob/master/LICENSE)
@@ -16,6 +17,7 @@
 [![Front end repository][frontend-shield]](https://github.com/LycheeOrg/Lychee-front)
 [![Docker repository][docker-shield]](https://github.com/LycheeOrg/Lychee-Docker)
 [![Gitter][gitter-shield]](https://gitter.im/LycheeOrg/Lobby)
+
 </p>
 
 
