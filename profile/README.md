@@ -23,10 +23,10 @@
 
 #### A great looking and easy-to-use photo-management-system.
 
-*The Lychee project was moved to [LycheeOrg](https://github.com/LycheeOrg) on the 1st of April 2018. We would like to thank electerious (Tobias Reich) for creating Lychee and for giving us the opportunity to make this project live on.*
-
-![Lychee](https://camo.githubusercontent.com/b9010f02c634219795950e034f511f4cf4af5c60/68747470733a2f2f732e656c6563746572696f75732e636f6d2f696d616765732f6c79636865652f312e6a706567)
-![Lychee](https://camo.githubusercontent.com/5484591f0b15b6ba27d4845b292cc5d3a988b3b9/68747470733a2f2f732e656c6563746572696f75732e636f6d2f696d616765732f6c79636865652f322e6a706567)
+<!-- *The Lychee project was moved to [LycheeOrg](https://github.com/LycheeOrg) on the 1st of April 2018. We would like to thank electerious (Tobias Reich) for creating Lychee and for giving us the opportunity to make this project live on.*
+ -->
+<!-- ![Lychee](https://camo.githubusercontent.com/b9010f02c634219795950e034f511f4cf4af5c60/68747470733a2f2f732e656c6563746572696f75732e636f6d2f696d616765732f6c79636865652f312e6a706567) -->
+<!-- ![Lychee](https://camo.githubusercontent.com/5484591f0b15b6ba27d4845b292cc5d3a988b3b9/68747470733a2f2f732e656c6563746572696f75732e636f6d2f696d616765732f6c79636865652f322e6a706567) -->
 
 Lychee is a free photo-management tool, which runs on your server or web-space. Installing is a matter of seconds. Upload, manage and share photos like from a native application. Lychee comes with everything you need and all your photos are stored securely. Read more on our [website](https://LycheeOrg.github.io).
 
