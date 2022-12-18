@@ -31,7 +31,7 @@
 Lychee is a free photo-management tool, which runs on your server or web-space. Installing is a matter of seconds. Upload, manage and share photos like from a native application. Lychee comes with everything you need and all your photos are stored securely. Read more on our [website](https://LycheeOrg.github.io).
 
 [1]: https://lycheeorg.github.io/docs/settings.html
-[build-status-shield]: https://img.shields.io/github/workflow/status/LycheeOrg/Lychee/Integrate?label=CICD
+[build-status-shield]: https://img.shields.io/github/actions/workflow/status/LycheeOrg/Lychee/CICD.yml?branch=master
 [codecov-shield]: https://codecov.io/gh/LycheeOrg/Lychee/branch/master/graph/badge.svg
 [release-shield]: https://img.shields.io/github/release/LycheeOrg/Lychee.svg
 [php-shield]: https://img.shields.io/badge/PHP-8.0%20|%208.1-blue
