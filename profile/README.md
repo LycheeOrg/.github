@@ -3,7 +3,7 @@
 <p align="center" markdown="1">
 
 [![GitHub Release][release-shield]](https://github.com/LycheeOrg/Lychee/releases)
-[![PHP 8.0 & 8.1][php-shield]](https://lycheeorg.github.io/docs/#server-requirements)
+[![PHP 8.2 & 8.3][php-shield]](https://lycheeorg.github.io/docs/#server-requirements)
 [![MIT License][license-shield]](https://github.com/LycheeOrg/Lychee/blob/master/LICENSE)
 <br/>
 [![Build Status][build-status-shield]](https://github.com/LycheeOrg/Lychee/actions)
