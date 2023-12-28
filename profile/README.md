@@ -34,7 +34,7 @@ Lychee is a free photo-management tool, which runs on your server or web-space. 
 [build-status-shield]: https://img.shields.io/github/actions/workflow/status/LycheeOrg/Lychee/CICD.yml?branch=master
 [codecov-shield]: https://codecov.io/gh/LycheeOrg/Lychee/branch/master/graph/badge.svg
 [release-shield]: https://img.shields.io/github/release/LycheeOrg/Lychee.svg
-[php-shield]: https://img.shields.io/badge/PHP-8.0%20|%208.1-blue
+[php-shield]: https://img.shields.io/badge/PHP-8.2%20|%208.3-blue
 [license-shield]: https://img.shields.io/github/license/LycheeOrg/Lychee.svg
 [cii-shield]: https://img.shields.io/cii/summary/2855.svg
 [sonar-shield]: https://sonarcloud.io/api/project_badges/measure?project=LycheeOrg_Lychee-Laravel&metric=alert_status
