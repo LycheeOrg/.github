@@ -1,9 +1,9 @@
-<p align="center"><a href="https://lycheeorg.github.io"><img src="https://raw.githubusercontent.com/LycheeOrg/Lychee/master/Banner.png" width="400px" alt="@LycheeOrg"></a></p>
+<p align="center"><a href="https://lycheeorg.dev"><img src="https://raw.githubusercontent.com/LycheeOrg/Lychee/master/Banner.png" width="400px" alt="@LycheeOrg"></a></p>
 
 <p align="center" markdown="1">
 
 [![GitHub Release][release-shield]](https://github.com/LycheeOrg/Lychee/releases)
-[![PHP 8.2 & 8.3][php-shield]](https://lycheeorg.github.io/docs/#server-requirements)
+[![PHP 8.2 & 8.3][php-shield]](https://lycheeorg.dev/docs/#server-requirements)
 [![MIT License][license-shield]](https://github.com/LycheeOrg/Lychee/blob/master/LICENSE)
 <br/>
 [![Build Status][build-status-shield]](https://github.com/LycheeOrg/Lychee/actions)
@@ -11,26 +11,29 @@
 [![CII Best Practices Summary][cii-shield]](https://bestpractices.coreinfrastructure.org/projects/2855)
 [![Quality Gate Status][sonar-shield]](https://sonarcloud.io/dashboard?id=LycheeOrg_Lychee-Laravel)
 <br/>
-[![Website][website-shield]](https://lycheeorg.github.io)
-[![Documentation][docs-shield]](https://lycheeorg.github.io/docs/)
-[![Changelog][changelog-shield]](https://lycheeorg.github.io/docs/releases.html)
+[![Website][website-shield]](https://lycheeorg.dev)
+[![Documentation][docs-shield]](https://lycheeorg.dev/docs/)
+[![Changelog][changelog-shield]](https://lycheeorg.dev/docs/releases.html)
 [![Front end repository][frontend-shield]](https://github.com/LycheeOrg/Lychee-front)
 [![Docker repository][docker-shield]](https://github.com/LycheeOrg/Lychee-Docker)
+
 [![Gitter][gitter-shield]](https://gitter.im/LycheeOrg/Lobby)
+[![Discord][discord-shield]][discord]
 
-</p>
+## Lychee: A Stunning and User-Friendly Photo Management System
 
+Lychee is a free, open-source photo-management tool that runs on your server or web space. Installation is quick and easy, taking just seconds. With Lychee, you can upload, manage, and share your photos seamlessly, just like using a native application. It comes with all the essential features you need, ensuring your photos are stored securely. Read more on our [website](https://LycheeOrg.dev).
 
-#### A great looking and easy-to-use photo-management-system.
+For even more advanced features, consider the Supporter Edition (SE). The SE version offers additional functionality to enhance your experience. Learn more about the Supporter Edition and its benefits [here](https://lycheeorg.dev/get-supporter-edition).
 
-<!-- *The Lychee project was moved to [LycheeOrg](https://github.com/LycheeOrg) on the 1st of April 2018. We would like to thank electerious (Tobias Reich) for creating Lychee and for giving us the opportunity to make this project live on.*
- -->
-<!-- ![Lychee](https://camo.githubusercontent.com/b9010f02c634219795950e034f511f4cf4af5c60/68747470733a2f2f732e656c6563746572696f75732e636f6d2f696d616765732f6c79636865652f312e6a706567) -->
-<!-- ![Lychee](https://camo.githubusercontent.com/5484591f0b15b6ba27d4845b292cc5d3a988b3b9/68747470733a2f2f732e656c6563746572696f75732e636f6d2f696d616765732f6c79636865652f322e6a706567) -->
+## Support the Team
 
-Lychee is a free photo-management tool, which runs on your server or web-space. Installing is a matter of seconds. Upload, manage and share photos like from a native application. Lychee comes with everything you need and all your photos are stored securely. Read more on our [website](https://LycheeOrg.github.io).
+We aim to maintain a free open-source photography library with high quality of code.<br>
+Being in control of our own data, our own pictures is something that we value above all.
 
-[1]: https://lycheeorg.github.io/docs/settings.html
+Through [contributions, donations, and sponsorship](https://github.com/sponsors/LycheeOrg), you allow Lychee to thrive. Your donations directly support demo server costs, continuous enhancements, and most importantly bug fixes!
+
+[1]: https://lycheeorg.dev/docs/settings.html
 [build-status-shield]: https://img.shields.io/github/actions/workflow/status/LycheeOrg/Lychee/CICD.yml?branch=master
 [codecov-shield]: https://codecov.io/gh/LycheeOrg/Lychee/branch/master/graph/badge.svg
 [release-shield]: https://img.shields.io/github/release/LycheeOrg/Lychee.svg
@@ -45,3 +48,5 @@ Lychee is a free photo-management tool, which runs on your server or web-space. 
 [docker-shield]: https://img.shields.io/badge/-Lychee--Docker-informational.svg?logo=github
 [gitter-shield]: https://img.shields.io/gitter/room/LycheeOrg/Lobby.svg?logo=gitter
 [jetbrains-opensource]: https://www.jetbrains.com/community/opensource/
+[discord]: https://discord.gg/JMPvuRQcTf
+[discord-shield]: https://img.shields.io/discord/1046911561366765598?logo=discord
